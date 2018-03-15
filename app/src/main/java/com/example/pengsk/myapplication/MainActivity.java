@@ -40,6 +40,7 @@ public class MainActivity extends AppCompatActivity {
 //            @Override
 //            public void onClick(View view) {
 //                int  d = new Random().nextInt(3);
+
 //                text.setText(d + "   " + (int) d);
 //            }
 //        });
