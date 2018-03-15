@@ -35,9 +35,6 @@ public class MainActivity extends AppCompatActivity {
 //        UMConfigure.init(this, UMConfigure.DEVICE_TYPE_PHONE, "1fe6a20054bcef865eeb0991ee84525b");
 //        UMConfigure.init(this, "58edcfeb310c93091c000be2", "Umeng", UMConfigure.DEVICE_TYPE_PHONE, "1fe6a20054bcef865eeb0991ee84525b");
         Button butn = findViewById(R.id.butn);
-
-
-
 //        butn.setOnClickListener(new View.OnClickListener() {
 //            @Override
 //            public void onClick(View view) {
